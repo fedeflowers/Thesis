@@ -1,4 +1,4 @@
-# Thesis
+# : Text-to-image diffusion models attacks in scarce resource environments and privacy issues
 thesis in computer science Master degree,
 
 The aim is to test diffusion generative models against membership inference attacks.
