@@ -1,5 +1,5 @@
 # Text-to-image diffusion models attacks in scarce resource environments and privacy issues
-thesis in computer science Master degree,
+For a general idea of this work, take a look at this article written by me: https://medium.com/data-reply-it-datatech/membership-inference-attacks-mias-and-data-leakage-in-generative-models-737e6ed88e21
 
 The aim is to test diffusion generative models against membership inference attacks.
 
